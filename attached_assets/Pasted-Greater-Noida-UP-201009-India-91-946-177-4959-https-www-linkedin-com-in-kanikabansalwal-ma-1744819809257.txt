@@ -1,0 +1,66 @@
+Greater Noida, UP
+201009, India
++91 946-177-4959
+https://www.linkedin.com/in/kanikabansalwal/
+mailto:bansalwal1996@gmail.com
+KANIKA BANSALWAL
+OBJECTIVE		Software Engineer with experience in technical support, firmware testing, automation testing, and Python tool development. Adept at understanding business requirements, developing test scripts, and debugging. Seeking to contribute my expertise in a dynamic organization while exploring new technologies.
+EXPERIENCE		Technology Analyst - Software Firmware Engineer
+Infosys Limited [Oct/2022 – Present]
+	Developed Python tools for server simulation and DVT testing.
+	Automated testing processes and provided Tier-2 support.
+	Designed and implemented test protocols for firmware validation.
+	Created structured test scenarios, cases, and regression suites.
+	Debugged Python scripts and developed automation tools.
+	Worked with cross-functional teams to ensure seamless development.
+	Conducted various testing methodologies including sanity, smoke, and regression testing.
+	Utilized Salesforce and Jira for defect tracking and documentation.
+	Managed version control and CI/CD processes using AccuRev, GitLab, Git Kraken, and Jenkins.
+System Engineer – Test Analyst
+Tata Consultancy Services [July/2019 – Sep/2022]
+	Conducted functional, automation, and regression testing.
+	Developed and enhanced automated test scripts using Selenium (Java/Python).
+	Worked with SDLC and STLC processes using both waterfall and agile methodologies.
+	Designed and implemented QA test strategy plans (manual & automated).
+	Used Selenium WebDriver, TestNG, Robot Framework, and CI/CD pipelines for automation.
+	Developed automation scripts using HP UFT (scriptless framework).
+	Tracked and managed defects using Jira.
+	Trained and mentored 10+ team members, creating documentation and video tutorials.
+SKILLS/ABILITIES			Programming & Scripting: Python, C, Java, SQL
+	Testing & Automation: Selenium (Java/Python), TestNG, Robot Framework, HP UFT
+	Development Tools & Platforms: GitLab, Jenkins, CI/CD Pipelines, Jira, Salesforce, AccuRev
+	Databases & Query Tools: SQL, DBMS, RDBMS, Oracle, Toad for Oracle
+	Operating Systems: Windows
+	Additional Knowledge: GenAI, Agents, AI, Machine Learning (Supervised & Unsupervised Learning, Neural Networks), IoT, Robotics
+EDUCATION		MASTER OF TECHNOLOGY, ECE, LOVELY PROFESSIONAL UNIVERSITY 
+Grade: 9.04. Specialization in Robotics, Automation, ML and AI 
+BACHELOR OF TECHNOLOGY, ECE, RAJASTHAN TECHNICAL UNIVERSITY 
+Grade: 7.00
+TRAININGS		Google Cloud Agentic Workshop (Jan-2025)
+Advanced Test Automation Engineer (Oct-2021)
+IoT Embedded System Advanced Training (Sep-2016)
+RESEARCH WORK		Paper Title: Speech Recognition Implementation, Consilio 2019 Volume 8 Issue 9S4 (IJITEE)
+Link: https://www.ijitee.org/wp-content/uploads/papers/v8i9S4/I11160789S419.pdf
+PROJECTS		GenAI Agent – Career Assistant Conversational Agent (April-2025)
+Robotic Arm controlled via different devices (Jan-2019)
+Wi-Fi Home Automation (Jul-2017)
+CERTIFICATIONS			Microsoft Certified – Azure AI Fundamentals | May-2024
+	RISE Insta Award (2) | Client Spot Award | Infosys
+	Python, Cloud Beginner | Infosys
+	On-The-Spot Award (2) | Best Team Award (5) | Star Team Award (2) | On-The-Spot (Team) Award | TCS
+	Programming Foundations: Software Testing/QA | Feb-2022
+	Advanced Test Automation Engineer | RJP Infotek Pvt. Ltd. | Nov-2021
+	Software Testing Foundations Test Management | Mar-2021
+	Agile Testing | Mar-2021
+	Agile Requirement Foundations | IIBA | Dec-2020
+	Trained in Embedded IoT and VLSI Design | DKOP Labs Pvt. Ltd. | July-2018
+	Robotic Arm Workshop | RISC-LPU | April-2018
+	Advanced Training on Embedded IoT | Xinoe | July-2016
+	TechnoVoltz Workshop | TechFest | Dec-2015
+	Gargi and Balika Protsahan Award | Balika Shiksha Foundation | Feb-2012 and Jan-2014
+	Information Technology (RS-CIT) | Rajasthan Knowledge Corp. Ltd. | Sept-2010
+SOFT SKILLS			Highly Motivated, dedicated, quick learner and have proven ability to build and manage a team and work individually.
+	Strong analytical, organizational, and problem-solving skills, always striving for new technologies, Adaptive, Innovative, Supportive, and Cooperative in nature
+	Great attention to Detail, Research, Analytical, Logical and Critical Thinking
+	Takes action to meet work-related objectives without being asked or required to do so.
+
